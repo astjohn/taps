@@ -20,7 +20,6 @@ Taps-taps includes fixes submitted by the community."
   gem.add_dependency "sinatra",       "~> 1.4.4"
   gem.add_dependency "sqlite3",       "~> 1.3.8"
 
-  gem.add_development_dependency "sqlite3", "~> 1.2"
   gem.add_development_dependency "bacon"
   gem.add_development_dependency "mocha"
   gem.add_development_dependency "rack-test"
